@@ -42,7 +42,7 @@ Tech Stack
 
 Language : Python
 
-Libraries : Scikit-learn , Tensorflow , Keras, Glove, Flask, nltk, pandas, numpy
+Libraries : Scikit-learn , Tensorflow , Keras, Glove, nltk, pandas, numpy
 
 ## Table of content:
 
